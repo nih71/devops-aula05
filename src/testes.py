@@ -1,8 +1,9 @@
-Importjogovelha
-importsys
+Import jogovelha
+import sys
+
 erroInicializar= False
 jogo = jogovelha.inicializar()
-iflen(jogo) != 3:
+if len(jogo) != 3:
 erroInicializar= True
 else:
 for linha in jogo:
