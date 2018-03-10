@@ -5,4 +5,4 @@
 
 * O estado de cada casa do jogo será representada por uma string: "." para casa vazia; "X" para casa ocupada pelo 1° jogador; "O" para casa ocupada pelo 2º jogador
 
-* Afunção inicializar() retornara uma lista 3x3, onde casa posição contera uma string
+* Afunção inicializar() retornara uma lista 3x3, onde casa posição contera uma string para indicar o estado de uma casa do jogo. A função retornará todas as casas inicialmente vazias.
